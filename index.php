@@ -6,7 +6,7 @@
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>PhentasUX</title>
+        <title>PhentasUX Example</title>
         <link rel="stylesheet" href="assets/css/main.css"/>
     </head>
     <script src="src/phentas-ctrl.js"></script>
